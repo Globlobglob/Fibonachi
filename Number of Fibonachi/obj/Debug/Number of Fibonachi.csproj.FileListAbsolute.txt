@@ -1,0 +1,7 @@
+D:\215\Number of Fibonachi\bin\Debug\Number of Fibonachi.exe.config
+D:\215\Number of Fibonachi\bin\Debug\Number of Fibonachi.exe
+D:\215\Number of Fibonachi\bin\Debug\Number of Fibonachi.pdb
+D:\215\Number of Fibonachi\obj\Debug\Number of Fibonachi.csproj.AssemblyReference.cache
+D:\215\Number of Fibonachi\obj\Debug\Number of Fibonachi.csproj.CoreCompileInputs.cache
+D:\215\Number of Fibonachi\obj\Debug\Number of Fibonachi.exe
+D:\215\Number of Fibonachi\obj\Debug\Number of Fibonachi.pdb
